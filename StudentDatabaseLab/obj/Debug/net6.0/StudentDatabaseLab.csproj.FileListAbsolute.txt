@@ -1,0 +1,15 @@
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.AssemblyReference.cache
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfoInputs.cache
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfo.cs
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.CoreCompileInputs.cache
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.exe
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.deps.json
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.runtimeconfig.json
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.dll
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.dll
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\refint\StudentDatabaseLab.dll
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.pdb
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.genruntimeconfig.cache
+C:\Git\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\ref\StudentDatabaseLab.dll
